@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url("home4.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: none ;
+ 
+}
+
+#parent{
+    padding: 0px;
+    margin: 0px;
+
+}
+#bar{
+    height: 9vh;
+    width: 100vw;
+    display: flex;
+    background-color: antiquewhite;
+}
+.logo{
+    margin-left: 5vw;
+    height: 7vh;
+    margin-top: 1vh;
+    
+}
+.btn{
+    margin-top: 2vh;
+    height: 5vh;
+    width: 10vw;
+    margin: 2vh;
+    font-weight: bold;
+    font-size: 2.2vh;
+   background: transparent;
+    border: none;
+    cursor: pointer;
+    border-radius: 1vh;
+    margin-left: 20vh ;
+
+    
+}
+
+.btn:hover{
+  background-color: rgba(50, 205, 50, 0.6) ;
+}
+
+
+.wrapper {
+	width: 25vw;
+	background: transparent;
+	border: 2px solid rgba(255, 255, 255, 0.3);
+	backdrop-filter: blur(8px);
+	color: white;
+	border-radius: 20px;
+	padding: 50px;
+  margin: 2vh;
+}
+
+.wrapper h1{
+	font-size: 40;
+	text-align: center;
+
+}
+
+.wrapper .input-box{
+	width: 100%;
+	margin: 35px 0;
+}
+
+.input-box input{
+	width: 22vw;
+	height: 100%;
+	background: transparent;
+	border: none;
+  font-size: 1.9vh;
+  
+	outline: none;
+	border: 3px solid rgba(255, 255, 255, 0.3);
+	border-radius: 45px;
+	padding: 20px 45px 20px 20px;
+}
+
+.input-box input::placeholder{
+	color:rgb(35, 113, 35);
+	font-weight: bold;
+
+}
+
+
+
+.wrapper .regbtn{
+	width: 100%;
+	height: 40px;
+	background-color:rgb(115, 198, 115);
+	border: none;
+	outline: none;
+	border-radius: 45px;
+	box-shadow: 0 0 15px rgba(0, 0, 0, .2);
+	cursor: pointer;
+	font-size: 20px;
+	color: 330;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.wrapper .already-member{
+	font-size: 16px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.already-member p a::hover{
+	text-decoration: blink; 
+}
+.message{
+  text-align: center;
+  background: #f9eded;
+  padding: 15px 0px;
+  border: 1px solid #699;
+  border-radius: 1.5vh;
+  margin-bottom: 2vh;
+  color: red;
+}
+
+/* for the footerr*/
+.footer{
+    height: 30vh;
+    width: 100vw;
+    background-color: rgb(125, 213, 213);
+    display: flex;
+  }
+  .logo2{
+    margin-left: 3vw;
+    height: 9vh;
+    margin-top: 1vh;   
+}
+.small_text{
+  font-size: 2vh;
+  color: rgb(66, 15, 115);
+  font-weight: bold;
+}
+ .first-div{
+  margin-top: 2vh;
+  margin-left: 5vh;
+ }
+ .second_div{
+  margin-left: 19vh;
+  margin-top: 2vh;
+ }
+ .third_div{
+  margin-left: 19vh;
+  margin-top: 2vh;
+ }
+ .fourth_div{
+  margin-left: 22vh;
+  margin-top: 2vh;
+ }
+.conimg{
+  display:flex;
+}
+.imgf{
+  width: 4vh;
+  height: 3vh;
+  margin: 1vh;
+  border-radius: 1vh;
+}
