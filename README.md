@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SE Project – Team Wizard
 
 ## Course
@@ -16,3 +17,7 @@ Demonstrates teamwork, version control, and collaborative development.
 
 ## Contribution
 Initial code uploaded by leader. Other team members will add features and commits.
+=======
+# SE--project--Team-wizard
+Group project for Software Engineering course using GitHub version control
+>>>>>>> 035036c14a0cd3522310d9d88b3d748ce6f88966
