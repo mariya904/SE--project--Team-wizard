@@ -35,13 +35,7 @@
             </div>
         </div>
   </div>
-            <div class="welcome">
-                <div class="txt">
-                    <h1> Welcome to our <br> Disaster Management System</h1>
-                    <h1>SafeNet</h1>
-                </div>
             
-                <div class="details">
                     <!---for vertical line and text-->
                     <div class="vrt1">
                         <div class="vl"></div>
